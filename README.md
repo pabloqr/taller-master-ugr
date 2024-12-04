@@ -18,7 +18,7 @@ The folowing sentenc constains four typos
   * Goto the following [link and generate a GPG key for signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) - *DONE*
   * Then [add the GPG key to your GitHub Account](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account) - *DONE*
   * Set [git locally with the signature](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key) - *DONE*
-  * Associate [your e-mail with GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/associating-an-email-with-your-gpg-key) - *DONE*
+  * Associate [your e-mail with GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/associating-an-email-with-your-gpg-key) - *UPDATED*
 
 ## Exercise 5 - Pull Request and peer review practice with verified committer
 
